@@ -1,1 +1,1 @@
-puts "Hello"
+puts "Hello อันดา Anda"
